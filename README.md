@@ -1,1 +1,1 @@
-# SQL_Challenge-01_Dannys_diner
+# SQL_8 Weeks Challenge
